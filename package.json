@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1",
+    "mongoos": "^0.0.1-security"
+  }
+}
